@@ -1,0 +1,18 @@
+h5{
+    color: rgba(40, 40, 145, 0.849);
+}
+.tbl-empleados{
+    box-shadow: 4px 5px 5px 1px #8080807d;
+    border-radius: 5px;
+}
+.formulario{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    align-items: flex-start;
+    gap: 1rem;
+    background: #dfe0e1;
+    padding: 30px 50px;
+    border-radius: 11px;
+}
